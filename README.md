@@ -21,7 +21,7 @@ A través de un menú interactivo en la consola, el usuario puede:
 * **Java `HttpClient`:** Para realizar las peticiones HTTP (GET) a la API externa.
 * **Jackson (`ObjectMapper`):** Para la deserialización de los datos JSON devueltos por la API.
 * **Lombok:** Para reducir el código repetitivo (getters, setters, constructores).
-* **Docker:** Para levantar una base local.
+* **Docker:** Para levantar una base de datos local.
 
 1. **Clonar el repositorio:**
    ```bash
