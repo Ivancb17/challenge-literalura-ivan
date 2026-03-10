@@ -22,8 +22,3 @@ A través de un menú interactivo en la consola, el usuario puede:
 * **Jackson (`ObjectMapper`):** Para la deserialización de los datos JSON devueltos por la API.
 * **Lombok:** Para reducir el código repetitivo (getters, setters, constructores).
 * **Docker:** Para levantar una base de datos local.
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/msxd26/Challenge-Literalura.git
-   cd Challenge-Literalura
